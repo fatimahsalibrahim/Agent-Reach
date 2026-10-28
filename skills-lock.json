@@ -7,6 +7,12 @@
       "skillPath": "skills/ads/SKILL.md",
       "computedHash": "a61bbfab0fab52626d5c9ae54c1ea60408bad80d4b1028f6e1f1e459e8053023"
     },
+    "arabic-brand-carousel": {
+      "source": "saoudphotos/arabic-brand-carousel",
+      "sourceType": "github",
+      "skillPath": "arabic-brand-carousel/SKILL.md",
+      "computedHash": "b543774868bef4748ac398ff0483b2443e35278fceef07fea39a270f00bcb4eb"
+    },
     "find-skills": {
       "source": "vercel-labs/skills",
       "sourceType": "github",
