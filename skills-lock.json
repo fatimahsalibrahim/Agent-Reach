@@ -1,6 +1,12 @@
 {
   "version": 1,
   "skills": {
+    "ads": {
+      "source": "coreyhaines31/marketingskills",
+      "sourceType": "github",
+      "skillPath": "skills/ads/SKILL.md",
+      "computedHash": "a61bbfab0fab52626d5c9ae54c1ea60408bad80d4b1028f6e1f1e459e8053023"
+    },
     "find-skills": {
       "source": "vercel-labs/skills",
       "sourceType": "github",
