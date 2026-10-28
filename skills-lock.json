@@ -13,6 +13,12 @@
       "skillPath": "instagram-carousel/SKILL.md",
       "computedHash": "cac0afb1d3549276ccfc057b648953bf329d1f07893b3724455d02e118ad8e05"
     },
+    "instagram-content-generation": {
+      "source": "eachlabs/skills",
+      "sourceType": "github",
+      "skillPath": "skills/instagram-content-generation/SKILL.md",
+      "computedHash": "fe5626be625fd865e61db2aa311b3cbca5c71967c2798fee3adc8120419a5358"
+    },
     "instagram-scraper": {
       "source": "apidojo-io/social-media-skills",
       "sourceType": "github",
