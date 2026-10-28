@@ -114,6 +114,12 @@
       "sourceType": "github",
       "skillPath": "skills/instagram-scraper/SKILL.md",
       "computedHash": "2a9da8ab09fe20c7af460de88d934e7a97b1b3f56a7c4ee1005fa0b73369664e"
+    },
+    "sound-effects": {
+      "source": "Barty-Bart/motion-graphics",
+      "sourceType": "github",
+      "skillPath": "skills/sound-effects/SKILL.md",
+      "computedHash": "9f4ae4b86fb8d8387a6a926e3cbf5f7d2341cabc36a9efeeab3697506774afbb"
     }
   }
 }
