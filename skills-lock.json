@@ -6,6 +6,12 @@
       "sourceType": "github",
       "skillPath": "skills/find-skills/SKILL.md",
       "computedHash": "913b9d37d0d54047dd65222bb8c67b2bf04e3cb87dcad1729068d7a8b2c8c396"
+    },
+    "instagram-scraper": {
+      "source": "apidojo-io/social-media-skills",
+      "sourceType": "github",
+      "skillPath": "skills/instagram-scraper/SKILL.md",
+      "computedHash": "2a9da8ab09fe20c7af460de88d934e7a97b1b3f56a7c4ee1005fa0b73369664e"
     }
   }
 }
